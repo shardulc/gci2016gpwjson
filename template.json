@@ -15,7 +15,8 @@
         }
       ],
       "description": "%s",
-      "tasks_completed": "%d"
+      "tasks_completed": "%d",
+      "GCI ID": "%d"
     }
   ]
 }
