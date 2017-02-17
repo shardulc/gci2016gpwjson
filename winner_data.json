@@ -361,7 +361,7 @@
             "trip": "A"
         },
         {
-            "GCI_ID": "",
+            "GCI_ID": 5722547446349824,
             "country": "Singapore",
             "description": "",
             "full_name": "Ong Jia Wei, Isaac",
@@ -375,11 +375,11 @@
                     "website": ""
                 }
             ],
-            "tasks_completed": "",
-            "trip": ""
+            "tasks_completed": 34,
+            "trip": "A"
         },
         {
-            "GCI_ID": "",
+            "GCI_ID": 4920797585997824,
             "country": "Indonesia",
             "description": "",
             "full_name": "Scott Moses Sunarto",
@@ -393,8 +393,8 @@
                     "website": ""
                 }
             ],
-            "tasks_completed": "",
-            "trip": ""
+            "tasks_completed": 42,
+            "trip": "A"
         },
         {
             "GCI_ID": 5723640247091200,
