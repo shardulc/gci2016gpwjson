@@ -597,16 +597,16 @@
         {
             "GCI_ID": 4930131147620352,
             "country": "United Kingdom",
-            "description": "",
+            "description": "Almost full-stack developer",
             "full_name": "Tommy Ip",
             "organization": "Zulip",
             "social": [
                 {
                     "facebook": "",
-                    "github": "",
+                    "github": "tommyip",
                     "telegram": "",
                     "twitter": "",
-                    "website": ""
+                    "website": "http://tommyip.me"
                 }
             ],
             "tasks_completed": 23,
