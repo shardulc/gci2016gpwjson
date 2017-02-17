@@ -1,22 +1,22 @@
 {
   "winners": [
     {
-      "full_name": "%s",
-      "country": "%s",
-      "organization": "%s",
-      "trip": "%s",
+      "full_name": "",
+      "country": "",
+      "organization": "",
+      "trip": "",
       "social": [
         {
-          "telegram": "%s",
-          "facebook": "%s",
-          "twitter": "%s",
-          "website": "%s",
-          "github": "%s"
+          "telegram": "",
+          "facebook": "",
+          "twitter": "",
+          "website": "",
+          "github": ""
         }
       ],
-      "description": "%s",
-      "tasks_completed": "%d",
-      "GCI ID": "%d"
+      "description": "",
+      "tasks_completed": "",
+      "GCI_ID": ""
     }
   ]
 }

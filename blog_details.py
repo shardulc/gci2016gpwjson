@@ -14,7 +14,6 @@ def get_details():
 	table_elem = soup.find('table')
 	all_records = table_elem.find('tbody').findAll('tr')
 	for record in all_records:
-		print(record)
 		clean_records = record.findAll('td')
 		details = dict()
 		details['full_name'] = ''.join(clean_records[0].findAll(text=True)).strip()
