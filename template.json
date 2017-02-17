@@ -1,0 +1,21 @@
+{
+  "winners": [
+    {
+      "full_name": "%s",
+      "country": "%s",
+      "organization": "%s",
+      "trip": "%s",
+      "social": [
+        {
+          "telegram": "%s",
+          "facebook": "%s",
+          "twitter": "%s",
+          "website": "%s",
+          "github": "%s"
+        }
+      ],
+      "description": "%s",
+      "tasks_completed": "%d"
+    }
+  ]
+}
