@@ -73,7 +73,7 @@
             "trip": "B"
         },
         {
-            "GCI_ID": "",
+            "GCI_ID": 6518026123870208,
             "country": "Romania",
             "description": "",
             "full_name": "Alexandru Bratosin",
@@ -87,7 +87,7 @@
                     "website": ""
                 }
             ],
-            "tasks_completed": "",
+            "tasks_completed": 12,
             "trip": "B"
         },
         {
@@ -127,7 +127,7 @@
             "trip": "B"
         },
         {
-            "GCI_ID": "",
+            "GCI_ID": 5255906832941056,
             "country": "India",
             "description": "",
             "full_name": "Shriank Kanaparti",
@@ -141,7 +141,7 @@
                     "website": ""
                 }
             ],
-            "tasks_completed": "",
+            "tasks_completed": 9,
             "trip": "B"
         },
         {
@@ -199,7 +199,7 @@
             "trip": "A"
         },
         {
-            "GCI_ID": "",
+            "GCI_ID": 6110730013114368,
             "country": "Romania",
             "description": "",
             "full_name": "Oana Ro\u015fca",
@@ -213,7 +213,7 @@
                     "website": ""
                 }
             ],
-            "tasks_completed": "",
+            "tasks_completed": 31,
             "trip": "A"
         },
         {
