@@ -417,16 +417,16 @@
         {
             "GCI_ID": 5122561251737600,
             "country": "Cameroon",
-            "description": "",
+            "description": "Open Source developer",
             "full_name": "Nji Collins",
             "organization": "OpenMRS",
             "social": [
                 {
                     "facebook": "",
-                    "github": "",
-                    "telegram": "",
+                    "github": "collinsnji",
+                    "telegram": "https://t.me/CollinGrimm",
                     "twitter": "",
-                    "website": ""
+                    "website": "http://collingrimm.me"
                 }
             ],
             "tasks_completed": 20,
